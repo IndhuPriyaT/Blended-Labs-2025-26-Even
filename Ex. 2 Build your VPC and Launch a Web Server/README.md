@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Indhu Priya T
+* **Register Number**: 212224110024
+* **Date of Submission**: 17/08/2026
 
 ---
 
@@ -40,6 +40,11 @@ The objective of this experiment is to understand how to design and configure a 
 Create a new Virtual Private Cloud (VPC) with a private IP address range. The VPC acts as a logically isolated network in AWS where all other resources will be deployed.
 
 Students should create a VPC with an appropriate CIDR block (for example, 10.0.0.0/16) and assign a meaningful name.
+
+
+
+
+
 
 
 ### Task 2: Create a Public Subnet
@@ -87,11 +92,12 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Created a VPC
+2. Added in a public and a private subnet
+3. Associated the Subnet
+4. Launched EC2 instance.
+5. Copied the DNS address for the output.
+
 
 ---
 
@@ -99,19 +105,24 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/16671d64-e7fa-4b64-9022-3ead2c73ecb3" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+
+<img width="1920" height="1200" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/fc712073-cbf2-4b85-9a1b-7b10b6d176c6" />
+
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
 (Insert Screenshot Here)
+
+
+<img width="1920" height="1200" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/e281063e-bf83-4dd2-9339-fbe696b8fb8f" />
 
 ---
 
