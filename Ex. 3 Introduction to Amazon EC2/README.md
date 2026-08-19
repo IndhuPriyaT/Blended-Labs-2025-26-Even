@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Indhu Priya T
+* **Register Number**: 212224110024
+* **Date of Submission**: 19/08/2026
 
 ---
 
@@ -98,11 +98,11 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Start Instance
+2. Initialize and run the instance
+3. Create Security groups
+4. Copy the IPv4 address to a web browser
+5. Stop the Instance
 
 ---
 
@@ -110,19 +110,23 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/7d6c6255-21c0-4940-aea9-fbda792dfa8f" />
+
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/1b900a4c-a9fc-42f8-a633-b39fb4120387" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8378555b-3b11-42c3-abe6-8e9e28694e6c" />
+
 
 ---
 
